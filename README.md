@@ -1,3 +1,3 @@
-# indian-language-identificatin-Identification-using-deep-learning
+# indian-language-Identification-using-deep-learning
 Text-based language identification is the task of automatically recognizing a language from a given text of a document. It is difficult to discriminate against languages families. emphasis on five languages used in India based on  Malayalam, Tamil, Kannada, Urdu, and Bengali. The proposed system uses RNN (LSTM)  as a feature for classification. Language Identification is an important pre-processing step in many tasks of Natural Language Processing (NLP). In a multilingual society like India, there is wide scope for automatic language identification since it would be a vital step in bridging the digital divide between the Indian masses and the world.
     
